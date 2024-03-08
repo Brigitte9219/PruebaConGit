@@ -5,12 +5,3 @@ Creando comentario de Dev2
 Trabajando Dev1 
 Creando comentario de Dev1 - Desarrollador 1
 
-
-Agregando un nuevo comentario
-
-Haciendo pruebas
-
-Modificando el Dev4
-
-AQUI INICIANDO PRUEBAS NUEVAMENTE CON GIT 
-PUES FALLO ANTERIORMENTE
